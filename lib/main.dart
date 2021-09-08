@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                   Card(
                     shadowColor: Colors.black,
                     margin: EdgeInsets.symmetric(
-                      vertical: 6.0,
+                      vertical: 5.0,
                       horizontal: 35.0,
                     ),
                     child: ListTile(
